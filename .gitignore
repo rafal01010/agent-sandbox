@@ -209,3 +209,14 @@ __marimo__/
 
 .DS_Store
 .python-version
+
+# Node / Next.js
+node_modules/
+.next/
+.turbo/
+coverage/
+*.tsbuildinfo
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
